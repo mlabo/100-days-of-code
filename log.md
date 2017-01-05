@@ -7,4 +7,4 @@
 
 **Thoughts:** I finished codeacademy's python course about three weeks ago and haven't done any coding since. I had forgotten a lot of what i'd learned and found the task challenging. I had to google a lot of basic syntax.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [HighestLowest](https://github.com/mlabo/100-days-of-code/blob/master/HighestLowest.py)
