@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: 5th Jan, 2016
-##### (delete me or comment me out)
+
 
 **Today's Progress**: Signed up to a few new online services including codewars and freecodecamp - made a program to find the highest and lowest numbers in a list using python
 
